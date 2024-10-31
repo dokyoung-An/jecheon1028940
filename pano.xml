@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node8" appversion="7.0.10" apprev="20025">
+  <panorama id="node8" hideabout="1">
+    <input leveltilesize="510" height="2000" width="2000" overlap="1" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="-0.534511" pan="-172.957" projection="4" fov="140.418"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140"/>
+    </view>
+    <userdata info="" longitude="128.228950" title="세대입구" description="" altitude="307.00" comment="" nodeid="node8" copyright="" tags="e편한세상 제천 더프라임 102동 503호 VR촬영" heading="0" datetime="2024:10:20 11:18:28" latitude="37.154719" source="" author="" customnodeid=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label border="1" borderradius="1" height="20" width="180" textalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" enabled="1" background="1" borderalpha="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-24.42" pan="-166.14" title="현관" description="" id="Point01" url="{node16}" target="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" type="crossdissolve" zoomin="0" zoomafterinfov="140" zoomout="0" enabled="1" blendcolor="0x000000" softedge="0" zoomspeed="2" delay="none" blendtime="1"/>
+    <autorotate startloaded="0" useanimation="0" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" horizonfromdefview="0" enabled="1" delay="10.00" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" contextvr="1" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" sensitivity="8" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" lockedkeyboard="0" hideabout="1" rubberband="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node16" hideabout="1">
+    <input leveltilesize="510" height="2000" width="2000" overlap="1" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="-2.09626" pan="4.38301" projection="4" fov="140.418"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140"/>
+    </view>
+    <userdata info="" longitude="128.228950" title="현관" description="" altitude="307.00" comment="" nodeid="node16" copyright="" tags="e편한세상 제천 더프라임 102동 503호 VR촬영" heading="0" datetime="2024:10:20 11:18:18" latitude="37.154719" source="" author="" customnodeid=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label border="1" borderradius="1" height="20" width="180" textalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" enabled="1" background="1" borderalpha="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-27.2" pan="-179.42" title="세대입구" description="" id="Point01" url="{node8}" target="" skinid="ht_node"/>
+      <hotspot tilt="-40" pan="-354.45" title="복도3" description="" id="Point02" url="{node5}" target="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" type="crossdissolve" zoomin="0" zoomafterinfov="140" zoomout="0" enabled="1" blendcolor="0x000000" softedge="0" zoomspeed="2" delay="none" blendtime="1"/>
+    <autorotate startloaded="0" useanimation="0" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" horizonfromdefview="0" enabled="1" delay="10.00" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" contextvr="1" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" sensitivity="8" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" lockedkeyboard="0" hideabout="1" rubberband="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <input leveltilesize="510" height="2000" width="2000" overlap="1" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="2.37493" pan="3.95424" projection="4" fov="140.418"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140"/>
+    </view>
+    <userdata info="" longitude="128.228950" title="침실1" description="" altitude="307.00" comment="" nodeid="node12" copyright="" tags="e편한세상 제천 더프라임 102동 503호 VR촬영" heading="0" datetime="2024:10:20 11:16:08" latitude="37.154719" source="" author="" customnodeid=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label border="1" borderradius="1" height="20" width="180" textalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" enabled="1" background="1" borderalpha="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-16.09" pan="-19.02" title="드레스룸1-2" description="" id="Point01" url="{node15}" target="" skinid="ht_node"/>
+      <hotspot tilt="-17.69" pan="-304.85" title="복도1" description="" id="Point02" url="{node10}" target="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" type="crossdissolve" zoomin="0" zoomafterinfov="140" zoomout="0" enabled="1" blendcolor="0x000000" softedge="0" zoomspeed="2" delay="none" blendtime="1"/>
+    <autorotate startloaded="0" useanimation="0" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" horizonfromdefview="0" enabled="1" delay="10.00" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" contextvr="1" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" sensitivity="8" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" lockedkeyboard="0" hideabout="1" rubberband="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input leveltilesize="510" height="2000" width="2000" overlap="1" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="2.35244" pan="3.94673" projection="4" fov="140.418"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140"/>
+    </view>
+    <userdata info="" longitude="128.228950" title="드레스룸1-1" description="" altitude="307.00" comment="" nodeid="node4" copyright="" tags="e편한세상 제천 더프라임 102동 503호 VR촬영" heading="0" datetime="2024:10:20 11:15:48" latitude="37.154719" source="" author="" customnodeid=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label border="1" borderradius="1" height="20" width="180" textalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" enabled="1" background="1" borderalpha="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-30.29" pan="-0.38" title="드레스룸1-2" description="" id="Point01" url="{node15}" target="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" type="crossdissolve" zoomin="0" zoomafterinfov="140" zoomout="0" enabled="1" blendcolor="0x000000" softedge="0" zoomspeed="2" delay="none" blendtime="1"/>
+    <autorotate startloaded="0" useanimation="0" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" horizonfromdefview="0" enabled="1" delay="10.00" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" contextvr="1" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" sensitivity="8" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" lockedkeyboard="0" hideabout="1" rubberband="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node15" hideabout="1">
+    <input leveltilesize="510" height="2000" width="2000" overlap="1" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="3.50965" pan="-76.2648" projection="4" fov="140.418"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140"/>
+    </view>
+    <userdata info="" longitude="128.228950" title="드레스룸1-2" description="" altitude="307.00" comment="" nodeid="node15" copyright="" tags="e편한세상 제천 더프라임 102동 503호 VR촬영" heading="0" datetime="2024:10:20 11:15:58" latitude="37.154719" source="" author="" customnodeid=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label border="1" borderradius="1" height="20" width="180" textalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" enabled="1" background="1" borderalpha="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-29.65" pan="-1.27" title="부부욕실" description="" id="Point01" url="{node7}" target="" skinid="ht_node"/>
+      <hotspot tilt="-33.71" pan="-288.57" title="침실1" description="" id="Point02" url="{node12}" target="" skinid="ht_node"/>
+      <hotspot tilt="-25.72" pan="-91.26" title="드레스룸1-1" description="" id="Point03" url="{node4}" target="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" type="crossdissolve" zoomin="0" zoomafterinfov="140" zoomout="0" enabled="1" blendcolor="0x000000" softedge="0" zoomspeed="2" delay="none" blendtime="1"/>
+    <autorotate startloaded="0" useanimation="0" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" horizonfromdefview="0" enabled="1" delay="10.00" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" contextvr="1" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" sensitivity="8" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" lockedkeyboard="0" hideabout="1" rubberband="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input leveltilesize="510" height="2000" width="2000" overlap="1" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="3.43025" pan="-176.859" projection="4" fov="140.418"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140"/>
+    </view>
+    <userdata info="" longitude="128.228950" title="부부욕실" description="" altitude="307.00" comment="" nodeid="node7" copyright="" tags="e편한세상 제천 더프라임 102동 503호 VR촬영" heading="0" datetime="2024:10:20 11:15:37" latitude="37.154719" source="" author="" customnodeid=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label border="1" borderradius="1" height="20" width="180" textalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" enabled="1" background="1" borderalpha="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-35.96" pan="-266.51" title="드레스룸1-2" description="" id="Point01" url="{node15}" target="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" type="crossdissolve" zoomin="0" zoomafterinfov="140" zoomout="0" enabled="1" blendcolor="0x000000" softedge="0" zoomspeed="2" delay="none" blendtime="1"/>
+    <autorotate startloaded="0" useanimation="0" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" horizonfromdefview="0" enabled="1" delay="10.00" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" contextvr="1" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" sensitivity="8" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" lockedkeyboard="0" hideabout="1" rubberband="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input leveltilesize="510" height="2000" width="2000" overlap="1" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="-0.171376" pan="170.682" projection="4" fov="140.418"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140"/>
+    </view>
+    <userdata info="" longitude="128.228950" title="복도1" description="" altitude="307.00" comment="" nodeid="node10" copyright="" tags="e편한세상 제천 더프라임 102동 503호 VR촬영" heading="0" datetime="2024:10:20 11:16:31" latitude="37.154719" source="" author="" customnodeid=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label border="1" borderradius="1" height="20" width="180" textalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" enabled="1" background="1" borderalpha="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-23.19" pan="-187.93" title="거실" description="" id="Point01" url="{node1}" target="" skinid="ht_node"/>
+      <hotspot tilt="-17.32" pan="-119.8" title="침실1" description="" id="Point02" url="{node12}" target="" skinid="ht_node"/>
+      <hotspot tilt="-31.32" pan="1.17" title="주방" description="" id="Point03" url="{node11}" target="" skinid="ht_node"/>
+      <hotspot tilt="-24.37" pan="-244.53" title="복도2" description="" id="Point04" url="{node6}" target="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" type="crossdissolve" zoomin="0" zoomafterinfov="140" zoomout="0" enabled="1" blendcolor="0x000000" softedge="0" zoomspeed="2" delay="none" blendtime="1"/>
+    <autorotate startloaded="0" useanimation="0" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" horizonfromdefview="0" enabled="1" delay="10.00" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" contextvr="1" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" sensitivity="8" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" lockedkeyboard="0" hideabout="1" rubberband="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node1" hideabout="1">
+    <input leveltilesize="510" height="2000" width="2000" overlap="1" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="-2.55452" pan="176.059" projection="4" fov="140.418"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140"/>
+    </view>
+    <userdata info="" longitude="128.228950" title="거실" description="" altitude="307.00" comment="" nodeid="node1" copyright="" tags="e편한세상 제천 더프라임 102동 503호 VR촬영" heading="0" datetime="2024:10:20 11:17:11" latitude="37.154719" source="" author="" customnodeid=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label border="1" borderradius="1" height="20" width="180" textalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" enabled="1" background="1" borderalpha="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-19.1" pan="-8.74" title="복도1" description="" id="Point01" url="{node10}" target="" skinid="ht_node"/>
+      <hotspot tilt="-24.31" pan="-309.47" title="복도2" description="" id="Point02" url="{node6}" target="" skinid="ht_node"/>
+      <hotspot tilt="-19.37" pan="-58.24" title="침실1" description="" id="Point03" url="{node12}" target="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" type="crossdissolve" zoomin="0" zoomafterinfov="140" zoomout="0" enabled="1" blendcolor="0x000000" softedge="0" zoomspeed="2" delay="none" blendtime="1"/>
+    <autorotate startloaded="0" useanimation="0" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" horizonfromdefview="0" enabled="1" delay="10.00" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" contextvr="1" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" sensitivity="8" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" lockedkeyboard="0" hideabout="1" rubberband="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <input leveltilesize="510" height="2000" width="2000" overlap="1" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="-2.69067" pan="176.009" projection="4" fov="140.418"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140"/>
+    </view>
+    <userdata info="" longitude="128.228950" title="주방" description="" altitude="307.00" comment="" nodeid="node11" copyright="" tags="e편한세상 제천 더프라임 102동 503호 VR촬영" heading="0" datetime="2024:10:20 11:17:01" latitude="37.154719" source="" author="" customnodeid=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label border="1" borderradius="1" height="20" width="180" textalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" enabled="1" background="1" borderalpha="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-32.76" pan="-186.03" title="복도1" description="" id="Point01" url="{node10}" target="" skinid="ht_node"/>
+      <hotspot tilt="-16.03" pan="-59.89" title="다용도실" description="" id="Point02" url="{node3}" target="" skinid="ht_node"/>
+      <hotspot tilt="-7.88" pan="-289.23" title="실외기실" description="" id="Point03" url="{node9}" target="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" type="crossdissolve" zoomin="0" zoomafterinfov="140" zoomout="0" enabled="1" blendcolor="0x000000" softedge="0" zoomspeed="2" delay="none" blendtime="1"/>
+    <autorotate startloaded="0" useanimation="0" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" horizonfromdefview="0" enabled="1" delay="10.00" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" contextvr="1" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" sensitivity="8" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" lockedkeyboard="0" hideabout="1" rubberband="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input leveltilesize="510" height="2000" width="2000" overlap="1" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="-0.834665" pan="-178.457" projection="4" fov="140.418"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140"/>
+    </view>
+    <userdata info="" longitude="128.228950" title="다용도실" description="" altitude="307.00" comment="" nodeid="node3" copyright="" tags="e편한세상 제천 더프라임 102동 503호 VR촬영" heading="0" datetime="2024:10:20 11:16:20" latitude="37.154719" source="" author="" customnodeid=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label border="1" borderradius="1" height="20" width="180" textalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" enabled="1" background="1" borderalpha="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-21.27" pan="-99.95" title="주방" description="" id="Point01" url="{node11}" target="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" type="crossdissolve" zoomin="0" zoomafterinfov="140" zoomout="0" enabled="1" blendcolor="0x000000" softedge="0" zoomspeed="2" delay="none" blendtime="1"/>
+    <autorotate startloaded="0" useanimation="0" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" horizonfromdefview="0" enabled="1" delay="10.00" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" contextvr="1" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" sensitivity="8" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" lockedkeyboard="0" hideabout="1" rubberband="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input leveltilesize="510" height="2000" width="2000" overlap="1" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="-0.834453" pan="-178.459" projection="4" fov="140.418"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140"/>
+    </view>
+    <userdata info="" longitude="128.228950" title="실외기실" description="" altitude="307.00" comment="" nodeid="node9" copyright="" tags="e편한세상 제천 더프라임 102동 503호 VR촬영" heading="0" datetime="2024:10:20 11:16:42" latitude="37.154719" source="" author="" customnodeid=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label border="1" borderradius="1" height="20" width="180" textalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" enabled="1" background="1" borderalpha="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-20.62" pan="-286.74" title="주방" description="" id="Point01" url="{node11}" target="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" type="crossdissolve" zoomin="0" zoomafterinfov="140" zoomout="0" enabled="1" blendcolor="0x000000" softedge="0" zoomspeed="2" delay="none" blendtime="1"/>
+    <autorotate startloaded="0" useanimation="0" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" horizonfromdefview="0" enabled="1" delay="10.00" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" contextvr="1" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" sensitivity="8" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" lockedkeyboard="0" hideabout="1" rubberband="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input leveltilesize="510" height="2000" width="2000" overlap="1" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="-0.834453" pan="148.367" projection="4" fov="140.418"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140"/>
+    </view>
+    <userdata info="" longitude="128.228950" title="복도2" description="" altitude="307.00" comment="" nodeid="node6" copyright="" tags="e편한세상 제천 더프라임 102동 503호 VR촬영" heading="0" datetime="2024:10:20 11:17:23" latitude="37.154719" source="" author="" customnodeid=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label border="1" borderradius="1" height="20" width="180" textalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" enabled="1" background="1" borderalpha="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-25.46" pan="-2.37" title="복도3" description="" id="Point01" url="{node5}" target="" skinid="ht_node"/>
+      <hotspot tilt="-28.65" pan="-311.91" title="침실2" description="" id="Point02" url="{node13}" target="" skinid="ht_node"/>
+      <hotspot tilt="-29.39" pan="-185.15" title="복도1" description="" id="Point03" url="{node10}" target="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" type="crossdissolve" zoomin="0" zoomafterinfov="140" zoomout="0" enabled="1" blendcolor="0x000000" softedge="0" zoomspeed="2" delay="none" blendtime="1"/>
+    <autorotate startloaded="0" useanimation="0" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" horizonfromdefview="0" enabled="1" delay="10.00" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" contextvr="1" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" sensitivity="8" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" lockedkeyboard="0" hideabout="1" rubberband="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input leveltilesize="510" height="2000" width="2000" overlap="1" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="-1.56565" pan="178.981" projection="4" fov="140.418"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140"/>
+    </view>
+    <userdata info="" longitude="128.228950" title="복도3" description="" altitude="307.00" comment="" nodeid="node5" copyright="" tags="e편한세상 제천 더프라임 102동 503호 VR촬영" heading="0" datetime="2024:10:20 11:18:07" latitude="37.154719" source="" author="" customnodeid=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label border="1" borderradius="1" height="20" width="180" textalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" enabled="1" background="1" borderalpha="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-29.79" pan="-8.66" title="복도2" description="" id="Point01" url="{node6}" target="" skinid="ht_node"/>
+      <hotspot tilt="-35.49" pan="-265.62" title="현관" description="" id="Point02" url="{node16}" target="" skinid="ht_node"/>
+      <hotspot tilt="-19.96" pan="-180.44" title="공용욕실" description="" id="Point03" url="{node2}" target="" skinid="ht_node"/>
+      <hotspot tilt="-27.21" pan="-132.89" title="침실3" description="" id="Point04" url="{node14}" target="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" type="crossdissolve" zoomin="0" zoomafterinfov="140" zoomout="0" enabled="1" blendcolor="0x000000" softedge="0" zoomspeed="2" delay="none" blendtime="1"/>
+    <autorotate startloaded="0" useanimation="0" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" horizonfromdefview="0" enabled="1" delay="10.00" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" contextvr="1" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" sensitivity="8" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" lockedkeyboard="0" hideabout="1" rubberband="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <input leveltilesize="510" height="2000" width="2000" overlap="1" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="-7.03467" pan="-175.919" projection="4" fov="140.418"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140"/>
+    </view>
+    <userdata info="" longitude="128.228950" title="침실2" description="" altitude="307.00" comment="" nodeid="node13" copyright="" tags="e편한세상 제천 더프라임 102동 503호 VR촬영" heading="0" datetime="2024:10:20 11:17:36" latitude="37.154719" source="" author="" customnodeid=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label border="1" borderradius="1" height="20" width="180" textalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" enabled="1" background="1" borderalpha="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-21.63" pan="-22.73" title="복도2" description="" id="Point01" url="{node6}" target="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" type="crossdissolve" zoomin="0" zoomafterinfov="140" zoomout="0" enabled="1" blendcolor="0x000000" softedge="0" zoomspeed="2" delay="none" blendtime="1"/>
+    <autorotate startloaded="0" useanimation="0" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" horizonfromdefview="0" enabled="1" delay="10.00" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" contextvr="1" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" sensitivity="8" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" lockedkeyboard="0" hideabout="1" rubberband="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node14" hideabout="1">
+    <input leveltilesize="510" height="2000" width="2000" overlap="1" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="-7.02337" pan="-175.924" projection="4" fov="140.418"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140"/>
+    </view>
+    <userdata info="" longitude="128.228950" title="침실3" description="" altitude="307.00" comment="" nodeid="node14" copyright="" tags="e편한세상 제천 더프라임 102동 503호 VR촬영" heading="0" datetime="2024:10:20 11:17:46" latitude="37.154719" source="" author="" customnodeid=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label border="1" borderradius="1" height="20" width="180" textalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" enabled="1" background="1" borderalpha="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-26.21" pan="-25.16" title="복도3" description="" id="Point01" url="{node5}" target="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" type="crossdissolve" zoomin="0" zoomafterinfov="140" zoomout="0" enabled="1" blendcolor="0x000000" softedge="0" zoomspeed="2" delay="none" blendtime="1"/>
+    <autorotate startloaded="0" useanimation="0" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" horizonfromdefview="0" enabled="1" delay="10.00" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" contextvr="1" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" sensitivity="8" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" lockedkeyboard="0" hideabout="1" rubberband="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input leveltilesize="510" height="2000" width="2000" overlap="1" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="-1.61919" pan="-179.843" projection="4" fov="140.418"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140"/>
+    </view>
+    <userdata info="" longitude="128.228950" title="공용욕실" description="" altitude="307.00" comment="" nodeid="node2" copyright="" tags="e편한세상 제천 더프라임 102동 503호 VR촬영" heading="0" datetime="2024:10:20 11:17:57" latitude="37.154719" source="" author="" customnodeid=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label border="1" borderradius="1" height="20" width="180" textalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" enabled="1" background="1" borderalpha="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-35.54" pan="-29.08" title="침실2" description="" id="Point01" url="{node13}" target="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafteroutfov="40" zoomfov="40" type="crossdissolve" zoomin="0" zoomafterinfov="140" zoomout="0" enabled="1" blendcolor="0x000000" softedge="0" zoomspeed="2" delay="none" blendtime="1"/>
+    <autorotate startloaded="0" useanimation="0" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" horizonfromdefview="0" enabled="1" delay="10.00" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" contextvr="1" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" sensitivity="8" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" lockedkeyboard="0" hideabout="1" rubberband="0" invertwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata title="이편한세상더프라임" description="102동 503호" comment="" author="" copyright="" tags=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
